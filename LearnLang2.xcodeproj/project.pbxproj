@@ -14,6 +14,63 @@
 		3773C40F23DB9B1100DEFD07 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3773C40D23DB9B1100DEFD07 /* Main.storyboard */; };
 		3773C41123DB9B1300DEFD07 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3773C41023DB9B1300DEFD07 /* Assets.xcassets */; };
 		3773C41423DB9B1300DEFD07 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3773C41223DB9B1300DEFD07 /* LaunchScreen.storyboard */; };
+		3773C41E23DBA16900DEFD07 /* ImageClassifier.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 3773C41D23DBA16800DEFD07 /* ImageClassifier.mlmodel */; };
+		3773C46B23DE040B00DEFD07 /* la pared.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C43323DE040B00DEFD07 /* la pared.m4a */; };
+		3773C46C23DE040B00DEFD07 /* la mochila.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C43423DE040B00DEFD07 /* la mochila.m4a */; };
+		3773C46D23DE040B00DEFD07 /* 水瓶.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C43523DE040B00DEFD07 /* 水瓶.m4a */; };
+		3773C46E23DE040B00DEFD07 /* carpet.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C43623DE040B00DEFD07 /* carpet.m4a */; };
+		3773C46F23DE040B00DEFD07 /* el cuaderno.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C43723DE040B00DEFD07 /* el cuaderno.m4a */; };
+		3773C47023DE040B00DEFD07 /* 铅笔.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C43823DE040B00DEFD07 /* 铅笔.m4a */; };
+		3773C47123DE040B00DEFD07 /* watch.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C43923DE040B00DEFD07 /* watch.m4a */; };
+		3773C47223DE040B00DEFD07 /* 门.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C43A23DE040B00DEFD07 /* 门.m4a */; };
+		3773C47323DE040B00DEFD07 /* 墙.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C43B23DE040B00DEFD07 /* 墙.m4a */; };
+		3773C47423DE040B00DEFD07 /* paper.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C43C23DE040B00DEFD07 /* paper.m4a */; };
+		3773C47523DE040B00DEFD07 /* la computadora.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C43D23DE040B00DEFD07 /* la computadora.m4a */; };
+		3773C47623DE040B00DEFD07 /* 手表.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C43E23DE040B00DEFD07 /* 手表.m4a */; };
+		3773C47723DE040B00DEFD07 /* 计算器.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C43F23DE040B00DEFD07 /* 计算器.m4a */; };
+		3773C47823DE040B00DEFD07 /* el papel.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C44023DE040B00DEFD07 /* el papel.m4a */; };
+		3773C47923DE040B00DEFD07 /* shoe.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C44123DE040B00DEFD07 /* shoe.m4a */; };
+		3773C47A23DE040B00DEFD07 /* bookcase.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C44223DE040B00DEFD07 /* bookcase.m4a */; };
+		3773C47B23DE040B00DEFD07 /* el reloj.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C44323DE040B00DEFD07 /* el reloj.m4a */; };
+		3773C47C23DE040B00DEFD07 /* el suelo.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C44423DE040B00DEFD07 /* el suelo.m4a */; };
+		3773C47D23DE040B00DEFD07 /* 笔记本.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C44523DE040B00DEFD07 /* 笔记本.m4a */; };
+		3773C47E23DE040B00DEFD07 /* 杯子.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C44623DE040B00DEFD07 /* 杯子.m4a */; };
+		3773C47F23DE040B00DEFD07 /* drinking cup.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C44723DE040B00DEFD07 /* drinking cup.m4a */; };
+		3773C48023DE040B00DEFD07 /* 鞋子.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C44823DE040B00DEFD07 /* 鞋子.m4a */; };
+		3773C48123DE040B00DEFD07 /* backpack.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C44923DE040B00DEFD07 /* backpack.m4a */; };
+		3773C48223DE040B00DEFD07 /* 纸.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C44A23DE040B00DEFD07 /* 纸.m4a */; };
+		3773C48323DE040B00DEFD07 /* la calculadora.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C44B23DE040B00DEFD07 /* la calculadora.m4a */; };
+		3773C48423DE040B00DEFD07 /* 灯.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C44C23DE040B00DEFD07 /* 灯.m4a */; };
+		3773C48523DE040B00DEFD07 /* la lámpara.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C44D23DE040B00DEFD07 /* la lámpara.m4a */; };
+		3773C48623DE040B00DEFD07 /* wall.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C44E23DE040B00DEFD07 /* wall.m4a */; };
+		3773C48723DE040B00DEFD07 /* clock.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C44F23DE040B00DEFD07 /* clock.m4a */; };
+		3773C48823DE040B00DEFD07 /* 钟.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C45023DE040B00DEFD07 /* 钟.m4a */; };
+		3773C48923DE040B00DEFD07 /* floor.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C45123DE040B00DEFD07 /* floor.m4a */; };
+		3773C48A23DE040B00DEFD07 /* phone.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C45223DE040B00DEFD07 /* phone.m4a */; };
+		3773C48B23DE040B00DEFD07 /* los zapatos.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C45323DE040B00DEFD07 /* los zapatos.m4a */; };
+		3773C48C23DE040B00DEFD07 /* la estantería.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C45423DE040B00DEFD07 /* la estantería.m4a */; };
+		3773C48D23DE040B00DEFD07 /* 地板.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C45523DE040B00DEFD07 /* 地板.m4a */; };
+		3773C48E23DE040B00DEFD07 /* door.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C45623DE040B00DEFD07 /* door.m4a */; };
+		3773C48F23DE040B00DEFD07 /* calculator.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C45723DE040B00DEFD07 /* calculator.m4a */; };
+		3773C49023DE040B00DEFD07 /* 窗帘.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C45823DE040B00DEFD07 /* 窗帘.m4a */; };
+		3773C49123DE040B00DEFD07 /* la alfombra.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C45923DE040B00DEFD07 /* la alfombra.m4a */; };
+		3773C49223DE040B00DEFD07 /* 电话.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C45A23DE040B00DEFD07 /* 电话.m4a */; };
+		3773C49323DE040B00DEFD07 /* la cortina.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C45B23DE040B00DEFD07 /* la cortina.m4a */; };
+		3773C49423DE040B00DEFD07 /* 计算机.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C45C23DE040B00DEFD07 /* 计算机.m4a */; };
+		3773C49523DE040B00DEFD07 /* curtain,window shade.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C45D23DE040B00DEFD07 /* curtain,window shade.m4a */; };
+		3773C49623DE040B00DEFD07 /* notebook.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C45E23DE040B00DEFD07 /* notebook.m4a */; };
+		3773C49723DE040B00DEFD07 /* la botella de agua.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C45F23DE040B00DEFD07 /* la botella de agua.m4a */; };
+		3773C49823DE040B00DEFD07 /* el vaso.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C46023DE040B00DEFD07 /* el vaso.m4a */; };
+		3773C49923DE040B00DEFD07 /* lamp.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C46123DE040B00DEFD07 /* lamp.m4a */; };
+		3773C49A23DE040B00DEFD07 /* la puerta.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C46223DE040B00DEFD07 /* la puerta.m4a */; };
+		3773C49B23DE040B00DEFD07 /* 地毯.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C46323DE040B00DEFD07 /* 地毯.m4a */; };
+		3773C49C23DE040B00DEFD07 /* el teléfono.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C46423DE040B00DEFD07 /* el teléfono.m4a */; };
+		3773C49D23DE040B00DEFD07 /* 书架.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C46523DE040B00DEFD07 /* 书架.m4a */; };
+		3773C49E23DE040B00DEFD07 /* 书包.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C46623DE040B00DEFD07 /* 书包.m4a */; };
+		3773C49F23DE040B00DEFD07 /* pencil.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C46723DE040B00DEFD07 /* pencil.m4a */; };
+		3773C4A023DE040B00DEFD07 /* computer.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C46823DE040B00DEFD07 /* computer.m4a */; };
+		3773C4A123DE040B00DEFD07 /* el lápiz.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C46923DE040B00DEFD07 /* el lápiz.m4a */; };
+		3773C4A223DE040B00DEFD07 /* water bottle.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 3773C46A23DE040B00DEFD07 /* water bottle.m4a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +83,63 @@
 		3773C41023DB9B1300DEFD07 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3773C41323DB9B1300DEFD07 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3773C41523DB9B1300DEFD07 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3773C41D23DBA16800DEFD07 /* ImageClassifier.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = ImageClassifier.mlmodel; sourceTree = "<group>"; };
+		3773C43323DE040B00DEFD07 /* la pared.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "la pared.m4a"; sourceTree = "<group>"; };
+		3773C43423DE040B00DEFD07 /* la mochila.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "la mochila.m4a"; sourceTree = "<group>"; };
+		3773C43523DE040B00DEFD07 /* 水瓶.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "水瓶.m4a"; sourceTree = "<group>"; };
+		3773C43623DE040B00DEFD07 /* carpet.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = carpet.m4a; sourceTree = "<group>"; };
+		3773C43723DE040B00DEFD07 /* el cuaderno.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "el cuaderno.m4a"; sourceTree = "<group>"; };
+		3773C43823DE040B00DEFD07 /* 铅笔.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "铅笔.m4a"; sourceTree = "<group>"; };
+		3773C43923DE040B00DEFD07 /* watch.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = watch.m4a; sourceTree = "<group>"; };
+		3773C43A23DE040B00DEFD07 /* 门.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "门.m4a"; sourceTree = "<group>"; };
+		3773C43B23DE040B00DEFD07 /* 墙.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "墙.m4a"; sourceTree = "<group>"; };
+		3773C43C23DE040B00DEFD07 /* paper.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = paper.m4a; sourceTree = "<group>"; };
+		3773C43D23DE040B00DEFD07 /* la computadora.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "la computadora.m4a"; sourceTree = "<group>"; };
+		3773C43E23DE040B00DEFD07 /* 手表.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "手表.m4a"; sourceTree = "<group>"; };
+		3773C43F23DE040B00DEFD07 /* 计算器.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "计算器.m4a"; sourceTree = "<group>"; };
+		3773C44023DE040B00DEFD07 /* el papel.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "el papel.m4a"; sourceTree = "<group>"; };
+		3773C44123DE040B00DEFD07 /* shoe.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = shoe.m4a; sourceTree = "<group>"; };
+		3773C44223DE040B00DEFD07 /* bookcase.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = bookcase.m4a; sourceTree = "<group>"; };
+		3773C44323DE040B00DEFD07 /* el reloj.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "el reloj.m4a"; sourceTree = "<group>"; };
+		3773C44423DE040B00DEFD07 /* el suelo.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "el suelo.m4a"; sourceTree = "<group>"; };
+		3773C44523DE040B00DEFD07 /* 笔记本.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "笔记本.m4a"; sourceTree = "<group>"; };
+		3773C44623DE040B00DEFD07 /* 杯子.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "杯子.m4a"; sourceTree = "<group>"; };
+		3773C44723DE040B00DEFD07 /* drinking cup.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "drinking cup.m4a"; sourceTree = "<group>"; };
+		3773C44823DE040B00DEFD07 /* 鞋子.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "鞋子.m4a"; sourceTree = "<group>"; };
+		3773C44923DE040B00DEFD07 /* backpack.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = backpack.m4a; sourceTree = "<group>"; };
+		3773C44A23DE040B00DEFD07 /* 纸.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "纸.m4a"; sourceTree = "<group>"; };
+		3773C44B23DE040B00DEFD07 /* la calculadora.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "la calculadora.m4a"; sourceTree = "<group>"; };
+		3773C44C23DE040B00DEFD07 /* 灯.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "灯.m4a"; sourceTree = "<group>"; };
+		3773C44D23DE040B00DEFD07 /* la lámpara.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "la lámpara.m4a"; sourceTree = "<group>"; };
+		3773C44E23DE040B00DEFD07 /* wall.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = wall.m4a; sourceTree = "<group>"; };
+		3773C44F23DE040B00DEFD07 /* clock.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = clock.m4a; sourceTree = "<group>"; };
+		3773C45023DE040B00DEFD07 /* 钟.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "钟.m4a"; sourceTree = "<group>"; };
+		3773C45123DE040B00DEFD07 /* floor.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = floor.m4a; sourceTree = "<group>"; };
+		3773C45223DE040B00DEFD07 /* phone.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = phone.m4a; sourceTree = "<group>"; };
+		3773C45323DE040B00DEFD07 /* los zapatos.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "los zapatos.m4a"; sourceTree = "<group>"; };
+		3773C45423DE040B00DEFD07 /* la estantería.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "la estantería.m4a"; sourceTree = "<group>"; };
+		3773C45523DE040B00DEFD07 /* 地板.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "地板.m4a"; sourceTree = "<group>"; };
+		3773C45623DE040B00DEFD07 /* door.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = door.m4a; sourceTree = "<group>"; };
+		3773C45723DE040B00DEFD07 /* calculator.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = calculator.m4a; sourceTree = "<group>"; };
+		3773C45823DE040B00DEFD07 /* 窗帘.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "窗帘.m4a"; sourceTree = "<group>"; };
+		3773C45923DE040B00DEFD07 /* la alfombra.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "la alfombra.m4a"; sourceTree = "<group>"; };
+		3773C45A23DE040B00DEFD07 /* 电话.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "电话.m4a"; sourceTree = "<group>"; };
+		3773C45B23DE040B00DEFD07 /* la cortina.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "la cortina.m4a"; sourceTree = "<group>"; };
+		3773C45C23DE040B00DEFD07 /* 计算机.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "计算机.m4a"; sourceTree = "<group>"; };
+		3773C45D23DE040B00DEFD07 /* curtain,window shade.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "curtain,window shade.m4a"; sourceTree = "<group>"; };
+		3773C45E23DE040B00DEFD07 /* notebook.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = notebook.m4a; sourceTree = "<group>"; };
+		3773C45F23DE040B00DEFD07 /* la botella de agua.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "la botella de agua.m4a"; sourceTree = "<group>"; };
+		3773C46023DE040B00DEFD07 /* el vaso.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "el vaso.m4a"; sourceTree = "<group>"; };
+		3773C46123DE040B00DEFD07 /* lamp.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = lamp.m4a; sourceTree = "<group>"; };
+		3773C46223DE040B00DEFD07 /* la puerta.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "la puerta.m4a"; sourceTree = "<group>"; };
+		3773C46323DE040B00DEFD07 /* 地毯.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "地毯.m4a"; sourceTree = "<group>"; };
+		3773C46423DE040B00DEFD07 /* el teléfono.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "el teléfono.m4a"; sourceTree = "<group>"; };
+		3773C46523DE040B00DEFD07 /* 书架.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "书架.m4a"; sourceTree = "<group>"; };
+		3773C46623DE040B00DEFD07 /* 书包.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "书包.m4a"; sourceTree = "<group>"; };
+		3773C46723DE040B00DEFD07 /* pencil.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = pencil.m4a; sourceTree = "<group>"; };
+		3773C46823DE040B00DEFD07 /* computer.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = computer.m4a; sourceTree = "<group>"; };
+		3773C46923DE040B00DEFD07 /* el lápiz.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "el lápiz.m4a"; sourceTree = "<group>"; };
+		3773C46A23DE040B00DEFD07 /* water bottle.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "water bottle.m4a"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +172,7 @@
 		3773C40423DB9B1100DEFD07 /* LearnLang2 */ = {
 			isa = PBXGroup;
 			children = (
+				3773C41D23DBA16800DEFD07 /* ImageClassifier.mlmodel */,
 				3773C40523DB9B1100DEFD07 /* AppDelegate.swift */,
 				3773C40723DB9B1100DEFD07 /* Scene.sks */,
 				3773C40923DB9B1100DEFD07 /* Scene.swift */,
@@ -66,8 +181,72 @@
 				3773C41023DB9B1300DEFD07 /* Assets.xcassets */,
 				3773C41223DB9B1300DEFD07 /* LaunchScreen.storyboard */,
 				3773C41523DB9B1300DEFD07 /* Info.plist */,
+				3773C43223DE040B00DEFD07 /* Sounds */,
 			);
 			path = LearnLang2;
+			sourceTree = "<group>";
+		};
+		3773C43223DE040B00DEFD07 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				3773C43323DE040B00DEFD07 /* la pared.m4a */,
+				3773C43423DE040B00DEFD07 /* la mochila.m4a */,
+				3773C43523DE040B00DEFD07 /* 水瓶.m4a */,
+				3773C43623DE040B00DEFD07 /* carpet.m4a */,
+				3773C43723DE040B00DEFD07 /* el cuaderno.m4a */,
+				3773C43823DE040B00DEFD07 /* 铅笔.m4a */,
+				3773C43923DE040B00DEFD07 /* watch.m4a */,
+				3773C43A23DE040B00DEFD07 /* 门.m4a */,
+				3773C43B23DE040B00DEFD07 /* 墙.m4a */,
+				3773C43C23DE040B00DEFD07 /* paper.m4a */,
+				3773C43D23DE040B00DEFD07 /* la computadora.m4a */,
+				3773C43E23DE040B00DEFD07 /* 手表.m4a */,
+				3773C43F23DE040B00DEFD07 /* 计算器.m4a */,
+				3773C44023DE040B00DEFD07 /* el papel.m4a */,
+				3773C44123DE040B00DEFD07 /* shoe.m4a */,
+				3773C44223DE040B00DEFD07 /* bookcase.m4a */,
+				3773C44323DE040B00DEFD07 /* el reloj.m4a */,
+				3773C44423DE040B00DEFD07 /* el suelo.m4a */,
+				3773C44523DE040B00DEFD07 /* 笔记本.m4a */,
+				3773C44623DE040B00DEFD07 /* 杯子.m4a */,
+				3773C44723DE040B00DEFD07 /* drinking cup.m4a */,
+				3773C44823DE040B00DEFD07 /* 鞋子.m4a */,
+				3773C44923DE040B00DEFD07 /* backpack.m4a */,
+				3773C44A23DE040B00DEFD07 /* 纸.m4a */,
+				3773C44B23DE040B00DEFD07 /* la calculadora.m4a */,
+				3773C44C23DE040B00DEFD07 /* 灯.m4a */,
+				3773C44D23DE040B00DEFD07 /* la lámpara.m4a */,
+				3773C44E23DE040B00DEFD07 /* wall.m4a */,
+				3773C44F23DE040B00DEFD07 /* clock.m4a */,
+				3773C45023DE040B00DEFD07 /* 钟.m4a */,
+				3773C45123DE040B00DEFD07 /* floor.m4a */,
+				3773C45223DE040B00DEFD07 /* phone.m4a */,
+				3773C45323DE040B00DEFD07 /* los zapatos.m4a */,
+				3773C45423DE040B00DEFD07 /* la estantería.m4a */,
+				3773C45523DE040B00DEFD07 /* 地板.m4a */,
+				3773C45623DE040B00DEFD07 /* door.m4a */,
+				3773C45723DE040B00DEFD07 /* calculator.m4a */,
+				3773C45823DE040B00DEFD07 /* 窗帘.m4a */,
+				3773C45923DE040B00DEFD07 /* la alfombra.m4a */,
+				3773C45A23DE040B00DEFD07 /* 电话.m4a */,
+				3773C45B23DE040B00DEFD07 /* la cortina.m4a */,
+				3773C45C23DE040B00DEFD07 /* 计算机.m4a */,
+				3773C45D23DE040B00DEFD07 /* curtain,window shade.m4a */,
+				3773C45E23DE040B00DEFD07 /* notebook.m4a */,
+				3773C45F23DE040B00DEFD07 /* la botella de agua.m4a */,
+				3773C46023DE040B00DEFD07 /* el vaso.m4a */,
+				3773C46123DE040B00DEFD07 /* lamp.m4a */,
+				3773C46223DE040B00DEFD07 /* la puerta.m4a */,
+				3773C46323DE040B00DEFD07 /* 地毯.m4a */,
+				3773C46423DE040B00DEFD07 /* el teléfono.m4a */,
+				3773C46523DE040B00DEFD07 /* 书架.m4a */,
+				3773C46623DE040B00DEFD07 /* 书包.m4a */,
+				3773C46723DE040B00DEFD07 /* pencil.m4a */,
+				3773C46823DE040B00DEFD07 /* computer.m4a */,
+				3773C46923DE040B00DEFD07 /* el lápiz.m4a */,
+				3773C46A23DE040B00DEFD07 /* water bottle.m4a */,
+			);
+			path = Sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -128,10 +307,66 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3773C48423DE040B00DEFD07 /* 灯.m4a in Resources */,
+				3773C48923DE040B00DEFD07 /* floor.m4a in Resources */,
+				3773C47023DE040B00DEFD07 /* 铅笔.m4a in Resources */,
+				3773C47B23DE040B00DEFD07 /* el reloj.m4a in Resources */,
+				3773C4A023DE040B00DEFD07 /* computer.m4a in Resources */,
+				3773C48823DE040B00DEFD07 /* 钟.m4a in Resources */,
+				3773C49F23DE040B00DEFD07 /* pencil.m4a in Resources */,
+				3773C46D23DE040B00DEFD07 /* 水瓶.m4a in Resources */,
+				3773C46F23DE040B00DEFD07 /* el cuaderno.m4a in Resources */,
+				3773C47E23DE040B00DEFD07 /* 杯子.m4a in Resources */,
+				3773C49E23DE040B00DEFD07 /* 书包.m4a in Resources */,
+				3773C48723DE040B00DEFD07 /* clock.m4a in Resources */,
+				3773C47523DE040B00DEFD07 /* la computadora.m4a in Resources */,
+				3773C49223DE040B00DEFD07 /* 电话.m4a in Resources */,
+				3773C47123DE040B00DEFD07 /* watch.m4a in Resources */,
+				3773C48323DE040B00DEFD07 /* la calculadora.m4a in Resources */,
+				3773C4A123DE040B00DEFD07 /* el lápiz.m4a in Resources */,
+				3773C49023DE040B00DEFD07 /* 窗帘.m4a in Resources */,
+				3773C49623DE040B00DEFD07 /* notebook.m4a in Resources */,
+				3773C46E23DE040B00DEFD07 /* carpet.m4a in Resources */,
+				3773C48623DE040B00DEFD07 /* wall.m4a in Resources */,
+				3773C48523DE040B00DEFD07 /* la lámpara.m4a in Resources */,
+				3773C49B23DE040B00DEFD07 /* 地毯.m4a in Resources */,
+				3773C49723DE040B00DEFD07 /* la botella de agua.m4a in Resources */,
+				3773C48023DE040B00DEFD07 /* 鞋子.m4a in Resources */,
+				3773C49D23DE040B00DEFD07 /* 书架.m4a in Resources */,
+				3773C46C23DE040B00DEFD07 /* la mochila.m4a in Resources */,
+				3773C48A23DE040B00DEFD07 /* phone.m4a in Resources */,
+				3773C47823DE040B00DEFD07 /* el papel.m4a in Resources */,
+				3773C47923DE040B00DEFD07 /* shoe.m4a in Resources */,
+				3773C49123DE040B00DEFD07 /* la alfombra.m4a in Resources */,
+				3773C49923DE040B00DEFD07 /* lamp.m4a in Resources */,
+				3773C49423DE040B00DEFD07 /* 计算机.m4a in Resources */,
+				3773C48C23DE040B00DEFD07 /* la estantería.m4a in Resources */,
+				3773C49323DE040B00DEFD07 /* la cortina.m4a in Resources */,
+				3773C49523DE040B00DEFD07 /* curtain,window shade.m4a in Resources */,
+				3773C47D23DE040B00DEFD07 /* 笔记本.m4a in Resources */,
+				3773C49C23DE040B00DEFD07 /* el teléfono.m4a in Resources */,
 				3773C40823DB9B1100DEFD07 /* Scene.sks in Resources */,
+				3773C48E23DE040B00DEFD07 /* door.m4a in Resources */,
 				3773C41423DB9B1300DEFD07 /* LaunchScreen.storyboard in Resources */,
+				3773C46B23DE040B00DEFD07 /* la pared.m4a in Resources */,
+				3773C47223DE040B00DEFD07 /* 门.m4a in Resources */,
+				3773C48123DE040B00DEFD07 /* backpack.m4a in Resources */,
 				3773C41123DB9B1300DEFD07 /* Assets.xcassets in Resources */,
+				3773C47C23DE040B00DEFD07 /* el suelo.m4a in Resources */,
+				3773C4A223DE040B00DEFD07 /* water bottle.m4a in Resources */,
+				3773C47723DE040B00DEFD07 /* 计算器.m4a in Resources */,
+				3773C48223DE040B00DEFD07 /* 纸.m4a in Resources */,
+				3773C49823DE040B00DEFD07 /* el vaso.m4a in Resources */,
+				3773C47F23DE040B00DEFD07 /* drinking cup.m4a in Resources */,
+				3773C47423DE040B00DEFD07 /* paper.m4a in Resources */,
+				3773C47323DE040B00DEFD07 /* 墙.m4a in Resources */,
 				3773C40F23DB9B1100DEFD07 /* Main.storyboard in Resources */,
+				3773C49A23DE040B00DEFD07 /* la puerta.m4a in Resources */,
+				3773C47A23DE040B00DEFD07 /* bookcase.m4a in Resources */,
+				3773C48F23DE040B00DEFD07 /* calculator.m4a in Resources */,
+				3773C47623DE040B00DEFD07 /* 手表.m4a in Resources */,
+				3773C48B23DE040B00DEFD07 /* los zapatos.m4a in Resources */,
+				3773C48D23DE040B00DEFD07 /* 地板.m4a in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -145,6 +380,7 @@
 				3773C40C23DB9B1100DEFD07 /* ViewController.swift in Sources */,
 				3773C40A23DB9B1100DEFD07 /* Scene.swift in Sources */,
 				3773C40623DB9B1100DEFD07 /* AppDelegate.swift in Sources */,
+				3773C41E23DBA16900DEFD07 /* ImageClassifier.mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
